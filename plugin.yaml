@@ -1,6 +1,6 @@
 plugin:
-    name: 'waka.wakapi::lang.plugin.name'
-    description: 'waka.wakapi::lang.plugin.description'
+    name: waka.wakapi::lang.plugin.name
+    description: waka.wakapi::lang.plugin.description
     author: 'waka GmbH'
     icon: oc-icon-code
     homepage: ''
